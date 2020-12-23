@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+p{
+    color:#40514E;  
+    font-weight:bold;
+}
+h1 {
+  padding-top: 50px;
+  font-size: 5.5rem;
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+  font-size: 35px;
+}
+h3 {
+  color: #11999e;
+  /* text-align:justify; */
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+a:visited{
+    color:purple;
+}
+a:hover{
+    color:red;
+}
+hr{
+    width : 6%;
+    border-width: 5px;
+   margin:100px auto;
+    border-style:dotted none none none;
+
+}
+.top_Container {
+  background-color: #f8f1f1;
+  /* position: relative; */
+  padding-top:100px;
+
+}
+.middle-container{
+     padding-top: 150px; 
+    padding-bottom:100px;    
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pro {
+  text-decoration: underline;
+}
+.algo-image {
+  width: 35%;
+  float: right;
+  margin-left: 50px;
+  text-align: center;
+}
+.webd-image {
+  float: left;
+  width: 35%;
+  margin-right:50px;
+  text-align: center;
+
+}
+.ml-image{
+    float:left;
+    margin-right:50px;
+    text-align: center;
+  width: 35%;
+}
+
+.improgrammer {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 150px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.contact-me{
+    margin-bottom:40px;
+}
+.contact-me-button {
+    margin-bottom: 0px;
+    margin-top:50px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 50px;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+        width: 200px;
+    font-size: 26px;
+    font-weight: 100;
+    padding: 2px;
+    background-color: #66BFBF;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .bottom-container{
+     background-color:#66BFBF;
+     padding : 50px 0 20px;
+    }
+ .footer-link{
+    margin:30px;
+
+}
+.footer-link:visited{
+    color:#11999E;
+}
+.footer-link:hover{
+    color:white;
+}
